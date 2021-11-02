@@ -1,6 +1,7 @@
 # Workout Tracker
   ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg) 
 
+![image](https://user-images.githubusercontent.com/80925456/139867966-db6d6f89-aac0-4a9d-b4d1-63b8272888f5.png)
 
 Live Link: https://intense-ocean-00622.herokuapp.com/
 
