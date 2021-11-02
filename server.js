@@ -3,6 +3,7 @@ const express = require("express");
 const logger = require("morgan");
 const mongoose = require("mongoose");
 const routes = require("./routes");
+require('dotenv').config()
 
 const PORT = 3001;
 
