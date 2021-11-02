@@ -13,7 +13,7 @@ const workoutSchema = new Schema({
                 required: 'Please enter an exercise type',
             },
             name: {
-                type: Sting,
+                type: String,
                 trim: true,
                 required: 'Please enter an exercise name',
             },
