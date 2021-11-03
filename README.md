@@ -35,7 +35,7 @@ Live Link: https://intense-ocean-00622.herokuapp.com/
 Run the following command to install necessary dependencies:
 
 ```javascript
-npm i
+npm run install
 ```
 
 ## Usage
